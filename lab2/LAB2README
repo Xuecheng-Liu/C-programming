@@ -1,0 +1,25 @@
+1. Required Header
+THIS IS THE README FILE FOR LAB 2.
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE
+PERFORMED ALL
+OF THE WORK TO DETERMINE THE ANSWERS FOUND
+WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM
+ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS
+COURSE OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+2.Student Name
+Name: Xuecheng Liu
+
+3.Total Amount of Time: 10h
+
+4.The most difficult part of this lab is finding an effective way to read out the floating point from the input; 
+also, keeping in track with the total value without using arrays is a little bit challenge. There are lots of things needed to
+be taken into consideration to help we distinguish different parts of the floating points, such as '.', '\n','\t'. After this lab,
+I got a fully understanding about how getchar() works in C language, for example, say how to go to the next character we need.
+Also, I learnt a better way to debug the code by adding some printf in the code instead of debuggging it directly, which is time-consuming.
+
+5. For the first part of the lab, I set the break point in main and every time when I entered the loop again, I print out the current total, which is updated
+every time the loop runs. For other times I just enter next to let the code keep executing.
+For the input provided in the lab2, the change of total is: 1.625, 44.295, 170.81, 449.31, 693.720
+
+For the second part of the lab, the line is considered to be completed when user press enter.

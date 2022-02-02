@@ -1,0 +1,11 @@
+THIS IS THE README FILE FOR LAB 3.BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALLOF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSEOR ONE OF OUR UNDERGRADUATEGRADERS.
+
+Xuecheng Liu
+14 hours
+
+The lab is painful by using pointers, especially during the process to store words from user input
+and using multi-level pointers to make sure we can access each wordLine later. 
+
+
+While working with gdb, the way I used to make sure the correctness of my code is by printing out
+each element in the each input line through multiple pointers. The break point I set is in the main. The first value I printed out is the count in each set. This step is easy. The hard part is to print out the words in where can only be accessed by deferencing 2 levels of pointers. So I only tested my program with small input line (say 1 set with 2 words in it).
